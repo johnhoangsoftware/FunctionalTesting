@@ -25,5 +25,5 @@ và người đang cần xác định là một điểm có toạ độ (x,y)
 |---|---|---|---|---|
 |1|4.0|3.0|False|False|
 |2|2.5|3.5|True|True|
-|3|1.5|-|False|False|
+|3|1.5|-1|False|False|
 |4|3|6|False|False|
